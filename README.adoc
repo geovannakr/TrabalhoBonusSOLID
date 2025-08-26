@@ -7,7 +7,7 @@ ISP: violado porque não há separação entre Repository e Notifier, tudo está
 
 DIP: violado porque o código depende diretamente de classes concretas, como por exemplo Database, enquanto ela deveria depender de interfaces abstratas.
 
-image::diagrama.jpg[alt=Diagrama, width=200px]
+image::Captura de tela 2025-08-25 201049.png[alt=Diagrama, width=200px]
 
 2 - https://github.com/geovannakr/Trabalho-B-nus-SOLID.git 
 
